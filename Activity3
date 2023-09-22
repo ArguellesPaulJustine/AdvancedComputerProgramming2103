@@ -1,0 +1,27 @@
+#1
+for _ in range(5):
+     print("Advance Computer Programming")
+     
+     n=0
+#2    
+     while n<10:
+         n+=1
+         print (n)
+         
+#3
+     n=0
+     while n<10:
+         print (n)
+         n+=1
+         
+#4
+    n=0
+    while n<7:
+        print (n)
+        n+=1
+        
+#5
+     name = input("Please enter your name: ")
+     
+     for _ in range(4):
+         print(name)
